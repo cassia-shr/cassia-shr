@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bem vindo (a) ao meu perfil!
 
-<!--
-**cassia-shr/cassia-shr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou a Cassia Eduarda
 
-Here are some ideas to get you started:
+## Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CSS
+- HTML
+- JAVASCRIPT
+- REACT
+- NODE.JS
+
+## Estudando atualmente
+
+- Git e GotHub
+- React
+- Javascript
