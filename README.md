@@ -12,6 +12,6 @@ Olá, eu sou a Cassia Eduarda
 
 ## Estudando atualmente
 
-- Git e GotHub
+- Git e GitHub
 - React
 - Javascript
