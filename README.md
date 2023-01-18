@@ -2,6 +2,9 @@
 
 Olá, eu sou a Cassia Eduarda
 
+Acesse meu portfólio:
+https://7m5quz.csb.app/#
+
 ## Minhas habilidades
 
 - CSS
