@@ -10,11 +10,13 @@ https://7m5quz.csb.app/#
 - CSS
 - HTML
 - JAVASCRIPT
-- REACT
-- NODE.JS
+- RESPONSIVIDADE
+- GIT
+
+
 
 ## Estudando atualmente
 
-- Git e GitHub
 - React
 - Javascript
+- Banco de Dados
