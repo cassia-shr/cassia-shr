@@ -6,5 +6,3 @@
 Sou estudante de desenvolvimento Front-end, atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade de Santa Cruz do Sul (UNISC).
 
 😄 Meus pronomes: Ela/Dela
-
-![code] <img src="(https://camo.githubusercontent.com/d172f6a……6c696e6…](https://www.linkedin.com/in/cassia-eduarda-scherer/)" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" style="max-width: 100%;">
