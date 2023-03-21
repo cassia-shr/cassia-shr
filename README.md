@@ -6,5 +6,3 @@ Olá, eu sou a Cassia Eduarda!
 ## Sou estudante de desenvolvimento Front-end, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade de Santa Cruz do Sul (UNISC).
 
 😄 Meus pronomes: Ela/Dela
-
-📫 Como chegar até mim: [LinkedIn] (https://www.linkedin.com/in/cassia-eduarda-scherer/)
