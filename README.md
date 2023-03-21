@@ -1,22 +1,5 @@
-# Bem vindo (a) ao meu perfil!
+Olá, eu sou a Cassia Eduarda. 
 
-Olá, eu sou a Cassia Eduarda
-
-Acesse meu portfólio:
-https://7m5quz.csb.app/#
-
-## Minhas habilidades
-
-- CSS
-- HTML
-- JAVASCRIPT
-- RESPONSIVIDADE
-- GIT
+![code](https://user-images.githubusercontent.com/80048051/226607683-e9b692b9-0ba6-44ff-8333-dadc2cca2419.gif)
 
 
-
-## Estudando atualmente
-
-- React
-- Javascript
-- Banco de Dados
