@@ -7,4 +7,4 @@ Olá, eu sou a Cassia Eduarda!
 
 😄 Meus pronomes: Ela/Dela
 
-📫 Como chegar até mim: [{https://www.linkedin.com/in/cassia-eduarda-scherer/}]
+📫 Como chegar até mim: [LinkedIn] (https://www.linkedin.com/in/cassia-eduarda-scherer/)
